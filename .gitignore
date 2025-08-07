@@ -1,0 +1,7 @@
+".ipynb_checkpoints/" 
+"__pycache__/" 
+"*.wav" 
+"*.mp3" 
+"*.env" 
+".DS_Store" 
+"training_data" 

@@ -1,0 +1,1 @@
+#need this file in every directory where you use scripts that use classes outside of the script (that reside in same directory)(that aren't from libraries installed elsewhere)
